@@ -1,0 +1,7 @@
+npm i redux react-redux
+
+actions :- what to do 
+**Note : in action we need to define a type field
+
+reducers :- how to do
+store :- central storage for all data
